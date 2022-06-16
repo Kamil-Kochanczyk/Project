@@ -6,6 +6,9 @@ Projekt zaliczeniowy C++
 ------------------------
 
 
+Program zainspirowany stroną internetową Human Benchmark (https://humanbenchmark.com/)
+
+
 Jak uruchomić?
 - do uruchomienia programu wystarczy folder Distribute
 - aby uruchomić program należy uruchomić aplikację Project.exe
