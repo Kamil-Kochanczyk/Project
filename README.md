@@ -16,7 +16,7 @@ Opis:
 Gry:
 - Aim Trainer to gra, która sprawdza koordynację ręka-oko; gracz musi jak najszybciej zniszczyć 30 tarcz, które pojawiają się w losowych miejscach na ekranie
 
-- Reaction Time to gra, która sprawdza refleks; gracz musi jak najszybiej kliknąć ekran, gdy kolor zmieni się z czerwonego na zielony
+- Reaction Time to gra, która sprawdza refleks; gracz musi chwilkę poczekać i jak najszybiej kliknąć ekran, gdy kolor ekranu zmieni się z czerwonego na zielony
 
 - Sequence Memory to gra, która sprawdza pamięć; na ekranie pojawią się kwadraciki, które będą podświetlane w losowej kolejności, a zadaniem gracza będzie kliknąć te same kwadraciki, które zostały podświetlone, i to w tej samej kolejności
 
