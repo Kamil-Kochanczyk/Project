@@ -13,14 +13,14 @@ Jak uruchomić?
 
 Uwaga: aby uruchomić program na Linuxie należy np. zainstalować program WineHQ, który pozwala uruchamiać pliki .exe na Linuxie, i otworzyć za jego pomocą aplikację Project.exe, np. używając komendy "wine Project.exe", gdy się jest w tym samym folderze co aplikacja
 
-Uwaga: może się też zdarzyć, że po wyjściu z jakiejś gry i powrocie do menu, nie będzie widać żadnych opcji, a jedynie czarny ekran. Jest to bug, lecz po kliknięciu strzałki w górę lub w dół, opcje powinny znów się pojawić.
-
 
 Opis:
 - program, który wyświetla dwa okna - menu i konsolę/terminal
 - menu pozwala wybrać i zagrać w jedną z 4 gier
 - konsola wyświetla informacje tekstowe, np. instrukcję danej gry, a także wyniki gracza
 - dostępne gry to: Aim Trainer, Reaction Time, Sequence Memory, Visual Memory
+
+Uwaga: może się też zdarzyć, że po wyjściu z jakiejś gry i powrocie do menu, nie będzie widać żadnych opcji, a jedynie czarny ekran. Jest to bug, lecz po kliknięciu strzałki w górę lub w dół, opcje powinny znów się pojawić.
 
 
 Gry:
