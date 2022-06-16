@@ -9,7 +9,7 @@ Projekt zaliczeniowy C++
 Opis:
 - program, który wyświetla dwa okna - menu i konsolę/terminal
 - menu pozwala wybrać i zagrać w jedną z 4 gier
-- konsola wypisuje informacje tekstowe, np. instrukcję danej gry, albo wynik gracza
+- konsola wypisuje informacje tekstowe, np. instrukcję danej gry, a także wyniki gracza
 - dostępne gry to: Aim Trainer, Reaction Time, Sequence Memory, Visual Memory
 
 
@@ -21,6 +21,8 @@ Gry:
 - Sequence Memory to gra, która sprawdza pamięć; na ekranie pojawią się kwadraciki, które będą podświetlane w losowej kolejności, a zadaniem gracza będzie kliknąć te same kwadraciki, które zostały podświetlone, i to w tej samej kolejności
 
 - Visual Memory to gra, która sprawdza pamięć wizualną; na ekranie pojawią się kwadraciki, niektóre z nich zostaną podświetlone tworząc pewien wzór, a zadaniem gracza będzie odtworzyć później ten wzór
+
+Więcej informacji na temat każdej gry pojawi się w konsoli po uruchomieniu programu.
 
 
 Jak uruchomić?
