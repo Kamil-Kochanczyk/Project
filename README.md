@@ -9,7 +9,7 @@ Projekt zaliczeniowy C++
 Opis:
 - program, który wyświetla dwa okna - menu i konsolę/terminal
 - menu pozwala wybrać i zagrać w jedną z 4 gier
-- konsola wypisuje informacje tekstowe, np. instrukcję danej gry, a także wyniki gracza
+- konsola wyświetla informacje tekstowe, np. instrukcję danej gry, a także wyniki gracza
 - dostępne gry to: Aim Trainer, Reaction Time, Sequence Memory, Visual Memory
 
 
