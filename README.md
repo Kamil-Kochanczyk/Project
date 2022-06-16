@@ -20,7 +20,7 @@ Opis:
 - konsola wyświetla informacje tekstowe, np. instrukcję danej gry, a także wyniki gracza
 - dostępne gry to: Aim Trainer, Reaction Time, Sequence Memory, Visual Memory
 
-Uwaga: może się też zdarzyć, że po wyjściu z jakiejś gry i powrocie do menu, nie będzie widać żadnych opcji, a jedynie czarny ekran. Jest to bug, lecz po kliknięciu strzałki w górę lub w dół, opcje powinny znów się pojawić.
+Uwaga: może się też zdarzyć, że po wyjściu z jakiejś gry i powrocie do menu, nie będzie widać żadnych opcji, a jedynie czarny ekran. Jest to bug, lecz po kliknięciu strzałki w górę lub w dół, opcje powinny znów się pojawić
 
 
 Gry:
@@ -32,7 +32,7 @@ Gry:
 
 - Visual Memory to gra, która sprawdza pamięć wizualną; na ekranie pojawią się kwadraciki, niektóre z nich zostaną podświetlone tworząc pewien wzór, a zadaniem gracza będzie odtworzyć później ten wzór
 
-Więcej informacji na temat każdej gry pojawi się w konsoli po uruchomieniu programu.
+Więcej informacji na temat każdej gry pojawi się w konsoli po uruchomieniu programu
 
 
 Kody źródłowe (znajdują się w folderze Project):
