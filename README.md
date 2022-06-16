@@ -6,6 +6,16 @@ Projekt zaliczeniowy C++
 ------------------------
 
 
+Jak uruchomić?
+- do uruchomienia programu wystarczy folder Distribute
+- aby uruchomić program należy uruchomić aplikację Project.exe
+- ścieżka: Distribute/Release/Project.exe
+
+Uwaga: aby uruchomić program na Linuxie należy np. zainstalować program WineHQ, który pozwala uruchamiać pliki .exe na Linuxie, i otworzyć za jego pomocą aplikację Project.exe, np. używając komendy "wine Project.exe", gdy się jest w tym samym folderze co aplikacja
+
+Uwaga: może się też zdarzyć, że po wyjściu z jakiejś gry i powrocie do menu, nie będzie widać żadnych opcji, a jedynie czarny ekran. Jest to bug, lecz po kliknięciu strzałki w górę lub w dół, opcje powinny znów się pojawić.
+
+
 Opis:
 - program, który wyświetla dwa okna - menu i konsolę/terminal
 - menu pozwala wybrać i zagrać w jedną z 4 gier
@@ -23,16 +33,6 @@ Gry:
 - Visual Memory to gra, która sprawdza pamięć wizualną; na ekranie pojawią się kwadraciki, niektóre z nich zostaną podświetlone tworząc pewien wzór, a zadaniem gracza będzie odtworzyć później ten wzór
 
 Więcej informacji na temat każdej gry pojawi się w konsoli po uruchomieniu programu.
-
-
-Jak uruchomić?
-- do uruchomienia programu wystarczy folder Distribute
-- aby uruchomić program należy uruchomić aplikację Project.exe
-- ścieżka: Distribute/Release/Project.exe
-
-Uwaga: aby uruchomić program na Linuxie należy np. zainstalować program WineHQ, który pozwala uruchamiać pliki .exe na Linuxie, i otworzyć za jego pomocą aplikację Project.exe, np. używając komendy "wine Project.exe", gdy się jest w tym samym folderze co aplikacja
-
-Uwaga: może się też zdarzyć, że po wyjściu z jakiejś gry i powrocie do menu, nie będzie widać żadnych opcji, a jedynie czarny ekran. Jest to bug, lecz po kliknięciu strzałki w górę lub w dół, opcje powinny znów się pojawić.
 
 
 Kody źródłowe (znajdują się w folderze Project):
